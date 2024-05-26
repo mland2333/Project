@@ -1,0 +1,8 @@
+E:\Project\C#\Mod\DSP\HelloMod\bin\Debug\HelloMod.dll
+E:\Project\C#\Mod\DSP\HelloMod\bin\Debug\HelloMod.pdb
+E:\Project\C#\Mod\DSP\HelloMod\obj\Debug\HelloMod.csproj.AssemblyReference.cache
+E:\Project\C#\Mod\DSP\HelloMod\obj\Debug\HelloMod.csproj.CoreCompileInputs.cache
+E:\Project\C#\Mod\DSP\HelloMod\obj\Debug\HelloMod.dll
+E:\Project\C#\Mod\DSP\HelloMod\obj\Debug\HelloMod.pdb
+E:\Games\steam\steamapps\common\Dyson Sphere Program\BepInEx\plugins\HelloMod.dll
+E:\Games\steam\steamapps\common\Dyson Sphere Program\BepInEx\plugins\HelloMod.pdb

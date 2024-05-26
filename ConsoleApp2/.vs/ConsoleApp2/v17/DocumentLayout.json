@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\C#\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\Unity\\BeginnerCode\\Assets\\MainPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\Unity\\BeginnerCode\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\Unity\\UnityPlayground\\Assets\\UnityTechnologies\\Playground\\Scripts\\Conditions\\Actions\\ConsumeResourceAction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF298696-25C7-4455-B691-C7CA11E09169}|ConsoleApp2\\ConsoleApp2.csproj|e:\\project\\c#\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF298696-25C7-4455-B691-C7CA11E09169}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF298696-25C7-4455-B691-C7CA11E09169}|ConsoleApp2\\ConsoleApp2.csproj|e:\\project\\c#\\consoleapp2\\consoleapp2\\consoleapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EF298696-25C7-4455-B691-C7CA11E09169}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\consoleapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPlayer.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\BeginnerCode\\Assets\\MainPlayer.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unity\\BeginnerCode\\Assets\\MainPlayer.cs",
+              "ToolTip": "E:\\Project\\Unity\\BeginnerCode\\Assets\\MainPlayer.cs",
+              "RelativeToolTip": "..\\..\\Unity\\BeginnerCode\\Assets\\MainPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:53:46.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadmeEditor.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\BeginnerCode\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unity\\BeginnerCode\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ToolTip": "E:\\Project\\Unity\\BeginnerCode\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeToolTip": "..\\..\\Unity\\BeginnerCode\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:36:29.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumeResourceAction.cs",
+              "DocumentMoniker": "E:\\Project\\Unity\\UnityPlayground\\Assets\\UnityTechnologies\\Playground\\Scripts\\Conditions\\Actions\\ConsumeResourceAction.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unity\\UnityPlayground\\Assets\\UnityTechnologies\\Playground\\Scripts\\Conditions\\Actions\\ConsumeResourceAction.cs",
+              "ToolTip": "E:\\Project\\Unity\\UnityPlayground\\Assets\\UnityTechnologies\\Playground\\Scripts\\Conditions\\Actions\\ConsumeResourceAction.cs",
+              "RelativeToolTip": "..\\..\\Unity\\UnityPlayground\\Assets\\UnityTechnologies\\Playground\\Scripts\\Conditions\\Actions\\ConsumeResourceAction.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:23:33.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApp2",
+              "DocumentMoniker": "E:\\Project\\C#\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ToolTip": "E:\\Project\\C#\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeToolTip": "ConsoleApp2\\ConsoleApp2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T06:36:33.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project\\C#\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "E:\\Project\\C#\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAIAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:13:32.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
