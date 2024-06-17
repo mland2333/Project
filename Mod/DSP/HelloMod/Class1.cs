@@ -15,7 +15,7 @@ namespace HelloMod
     {
         void Start()
         {
-            //Logger.LogInfo("Hello World");
+            Logger.LogInfo("Hello World");
             Harmony.CreateAndPatchAll(typeof(HelloWorld));
         }
 
@@ -25,6 +25,27 @@ namespace HelloMod
             Debug.Log("Mine + 1");
         }
 
+        [HarmonyPrefix, HarmonyPatch(typeof(PowerSystem), "NewAccumulatorComponent")]
+        public static void AccumulatorAdd(PowerSystem __instance)
+        {
+            Debug.Log("Accumulator add");
+        }
+        [HarmonyPrefix, HarmonyPatch(typeof(PowerSystem), "NewConsumerComponent")]
+        public static void ConsumerAdd(PowerSystem __instance)
+        {
+            Debug.Log("Consumer add");
+        }
+        [HarmonyPrefix, HarmonyPatch(typeof(PowerSystem), "NewExchangerComponent")]
+        public static void ExchangerAdd(PowerSystem __instance)
+        {
+            Debug.Log("Exchanger add");
+        }
+        [HarmonyPrefix, HarmonyPatch(typeof(PowerSystem), "NewGeneratorComponent")]
+        public static void GeneratorAdd(PowerSystem __instance)
+        {
+            Debug.Log("Generator add");
+        }
+        /*
         private Rect windowRect = new Rect(50, 50, 300, 300);
         private String testString = "";
         private bool testBool = false;
@@ -47,7 +68,7 @@ namespace HelloMod
             testString = GUILayout.TextField(testString);
             testBool = GUILayout.Toggle(testBool, "开关");
             GUI.DragWindow();
-        }
+        }*/
     }
     
 }
